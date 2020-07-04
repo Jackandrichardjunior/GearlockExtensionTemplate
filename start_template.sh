@@ -23,13 +23,13 @@ ExtensionName="Sample"
 
 RunAfterClick="yes"
 # Set this to "yes", if you want to start an action suddenly when a key is pressed. If you set this to "no". The User needs to press Enter Key after inputting
-# Use the functions to execute scripts that you made/or that you have from a Open-Source project
 
 InputBox="Your Choice: "
 # This the text to be shown before inputting text (e.g Your Option >, Choice :
 
 
 # Defining Functions
+# Use the functions to execute scripts that you made/or that you have from a Open-Source project
 function optone() 
 {
 printspace
