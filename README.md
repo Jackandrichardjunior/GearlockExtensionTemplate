@@ -18,7 +18,7 @@ https://supreme-gamers.com/gearlock/gearlock-utils
 <br><br>
 
 `Environment Variables`<br>
-If you want to get the value of the variables. e.g If you want to know the location of the Gearload. if you cd ${GRLOAD}, It will change directory to Gearload. If you want to output colorful text. echo "${COLORCODE} TEXT ${RC}". e.g "${RED" Red Color Text${RC}". For more info on the Gearlock Variables :
+If you want to get the value of the variables. e.g If you want to know the location of the Gearload. if you cd ${GRLOAD}, It will change directory to Gearload. If you want to output colorful text. echo "${COLORCODE} TEXT ${RC}". e.g "${RED}" Red Color Text${RC}". For more info on the Gearlock Variables :
 https://supreme-gamers.com/gearlock/environment-variables
 
 `Other Things`<br>
